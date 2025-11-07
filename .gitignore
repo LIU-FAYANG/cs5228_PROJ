@@ -1,6 +1,6 @@
 .env
 .vscode/
-.DS_Store/
+.DS_Store
 __pycache__/
 .specstory/
 .specstory_auto_save/
