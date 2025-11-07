@@ -14,11 +14,5 @@ A machine learning project for predicting Singapore HDB resale prices using ense
 - Linear Regression
 - Random Forest
 - XGBoost
-- LightGBM (with hyperparameter tuning)
+- LightGBM
 
-## Key Features
-
-- Geographic proximity features (malls, MRT stations, schools)
-- Temporal features (year, month)
-- HDB-specific attributes (flat type, floor area, lease commence date)
-- Feature standardization and encoding
